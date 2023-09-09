@@ -17,9 +17,7 @@ public class Product {
 
         // single line comments
 
-        /*Escape Sequence learning- multi line comments
-
-         */
+        /*Escape Sequence learning- multi line comments*/
         // single line comments
 
         System.out.println("");
