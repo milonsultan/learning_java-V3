@@ -20,6 +20,8 @@ public class Product {
         /*Escape Sequence learning- multi line comments
 
          */
+        // single line comments
+
         System.out.println("");
 
         System.out.println("Product Id: "+id + '\n' + "Name: " +title + '\n' +"Price: "+ price + '\n' + "Description: "+description + '\n' + "Category: "+category);
