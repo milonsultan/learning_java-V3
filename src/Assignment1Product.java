@@ -1,4 +1,4 @@
-public class Product {
+public class Assignment1Product {
 
     public static void main(String[] args) {
 
@@ -13,7 +13,6 @@ public class Product {
         System.out.println("Price: "+ price);
         System.out.println("Description: "+description);
         System.out.println("Category: "+category);
-
 
         // single line comments
 
