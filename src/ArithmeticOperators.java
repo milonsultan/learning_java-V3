@@ -19,8 +19,10 @@ public class ArithmeticOperators {
         int num7 = 20;
         int result6 = num6 + num7;
         int result10 = num6 - num7;
+        int result11 = num7 / num6;
         System.out.println("The Result is: " + result6);
         System.out.println("The Result is: " + result10);
+        System.out.println("The Result is: " + result11);
     }
 
 }
