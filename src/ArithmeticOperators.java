@@ -8,6 +8,17 @@ public class ArithmeticOperators {
         result = num1 + num2;
         System.out.println("The Result is: " + result);
 
+        int square = num1*num2;
+        System.out.println("The Square of the two numbers is " + square);
+
+        int num4 = 10, num5 = 20;
+        num2 = num4 + num5;
+        System.out.println("The sum is: " + num2);
+
+
+
+
+
     }
 
 }
