@@ -15,7 +15,10 @@ public class ArithmeticOperators {
         num2 = num4 + num5;
         System.out.println("The sum is: " + num2);
 
-
+        int num6 = 10;
+        int num7 = 20;
+        int result6 = num6 + num7;
+        System.out.println("The Result is: " + result6);
 
 
 
