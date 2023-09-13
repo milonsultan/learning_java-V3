@@ -19,9 +19,6 @@ public class ArithmeticOperators {
         int num7 = 20;
         int result6 = num6 + num7;
         System.out.println("The Result is: " + result6);
-
-
-
     }
 
 }
