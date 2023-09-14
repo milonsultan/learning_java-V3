@@ -23,6 +23,13 @@ public class ArithmeticOperators {
         System.out.println("The Result is: " + result6);
         System.out.println("The Result is: " + result10);
         System.out.println("The Result is: " + result11);
+
+        int num8 = 10;
+        int num9 = 20;
+        int result8 = num8 + num9;
+        System.out.println("The result is : " + result8);
+
+
     }
 
 }
