@@ -36,6 +36,9 @@ public class ArithmeticOperators {
         num3 = num3 + 6 + (2*3);
         System.out.println(num3);
 
+        int num10 = 10;
+        int num11 = 20;
+        System.out.println(num10 + num11);
 
 
     }
