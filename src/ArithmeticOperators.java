@@ -30,6 +30,11 @@ public class ArithmeticOperators {
         System.out.println("The result is : " + result8);
 
 
+        int num10 = num9;
+        System.out.println("The result is num10 :  " + num10);
+
+
+
     }
 
 }
