@@ -40,10 +40,6 @@ public class ArithmeticOperators {
         int num11 = 20;
         System.out.println(num10 + num11);
 
-
-
-
-
     }
 
 }
