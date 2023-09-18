@@ -4,33 +4,39 @@ import java.util.Scanner;
 public class Assignment3UserInput {
 
     public static void main(String[] args) {
-        int id;
-        int price;
-        String title;
-        String description;
-        String category;
 
-        Scanner input = new Scanner(System.in);
+        int num1, num2, result;
 
-        System.out.println("Enter the product id:" );
-        id = input.nextInt();
-        System.out.println("The product id:" +id);
+        num1 = 20;
+        num2 = 10;
 
-        System.out.println("Enter the product price:");
-        price = input.nextInt();
-        System.out.println("The product price:" +price);
+        result = num1 + num2;
+        System.out.println("The Result of the addition is: " + result);  //Addition
 
-        System.out.println("Enter the product title:");
-        title = input.next();
-        System.out.println("The product title:" +title);
+        result = num1 - num2;
+        System.out.println("The Result of the subtraction is: " + result);  //Subtraction
 
-        System.out.println("Enter the product description:");
-        description = input.next();
-        System.out.println("The product description:" +description);
+        result = num1 * num2;
+        System.out.println("The Result of the multiplication is: " + result);  //Multiplication
 
-        System.out.println("Enter the product category:");
-        category = input.next();
-        System.out.println("The product category:" +category);
+        result = num1 / num2;
+        System.out.println("The Result of the division is: " + result);  //Division
+
+        result = num1 % num2;
+        System.out.println("The Result  of the modulus is: " + result);  //Modulus
+
+        result = num1++;
+        System.out.println("The Result of the increment is: " + result);  //Increment
+
+        result = ++num1;
+        System.out.println("The Result of the increment is: " + result);  //Increment
+
+        result = num1--;
+        System.out.println("The Result of the decrement is: " + result);  //Decrement
+
+        result = --num1;
+        System.out.println("The Result of the decrement is: " + result);  //Decrement
+
 
 
     }
