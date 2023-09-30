@@ -47,6 +47,13 @@ public class ArithmeticOperatorsUserInput {
         result = --num1;
         System.out.println("The Result of the decrement is: " + result);
 
+        result = num1++;
+
+        System.out.println("The Result of the increment is: " + result);
+
+
+
+
 
 
 
