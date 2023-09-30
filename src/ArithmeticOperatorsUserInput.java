@@ -26,6 +26,9 @@ public class ArithmeticOperatorsUserInput {
         double result2 = (double) num1 / num2;
         System.out.println("The Result of the division is: " + result2);   //double
 
+        double result3 = num1 / num2;
+        System.out.println(("The Result of the division is: " ) + result3);
+
         result = num1 % num2;
         System.out.println("The Result  of the modulus is: " + result);
 
@@ -40,6 +43,13 @@ public class ArithmeticOperatorsUserInput {
 
         result = --num1;
         System.out.println("The Result of the decrement is: " + result);
+
+        result = --num1;
+        System.out.println("The Result of the decrement is: " + result);
+
+
+
+
 
 
     }
